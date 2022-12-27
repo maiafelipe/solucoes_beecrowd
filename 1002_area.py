@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
+import math
 
 r = float(input())
-pi = 3.14159
+pi = math.pi
 area = pi * r * r
 print("A={:.4f}".format(area))
