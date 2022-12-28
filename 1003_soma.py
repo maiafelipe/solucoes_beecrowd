@@ -3,4 +3,6 @@
 a = int(input())
 b = int(input())
 
-print("SOMA = {}".format(a+b))
+soma = a+b
+
+print("SOMA = {}".format(soma))
