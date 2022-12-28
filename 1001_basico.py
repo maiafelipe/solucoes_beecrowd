@@ -2,5 +2,4 @@
 
 a = int(input())
 b = int(input())
-c = a+b
-print("X = {}".format(c))
+print("X = {}".format(a+b))
