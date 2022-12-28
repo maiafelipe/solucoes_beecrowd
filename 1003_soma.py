@@ -2,5 +2,6 @@
 
 a = int(input())
 b = int(input())
+c = a + b
 
-print("SOMA = {}".format(a+b))
+print("SOMA = {}".format(c))
