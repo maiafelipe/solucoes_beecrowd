@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
-a = int(input())
+a1 = int(input())
 b1 = int(input())
-print("X = {}".format(a+b1))
+print("X = {}".format(a1+b1))
+
